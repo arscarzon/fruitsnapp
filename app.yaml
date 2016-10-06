@@ -1,4 +1,4 @@
-application: cloud-vision
+application: fruitsnapp
 version: 1
 runtime: php55
 api_version: 1
